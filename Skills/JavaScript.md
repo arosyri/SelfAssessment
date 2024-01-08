@@ -2,10 +2,10 @@
 
 - Language
   - Object: 🖐 used
-  - this
+  - this: 👂 heard
   - arrow function: 🖐 used
   - async function: 👂 heard
-  - call
+  - call: 👂 heard
   - bind
   - apply
   - instanceof
@@ -13,7 +13,7 @@
   - ...rest: 🎓 known
   - typeof: 🎓 known
   - destructuring
-  - generator
+  - generator: 🎓 known
   - iterator: 🖐 used
   - async generator
   - async iterator
@@ -24,7 +24,7 @@
   - globalThis
   - window: 👂 heard
   - getters and setters: 👂 heard
-  - __proto__
+  - __proto__: 👂 heard
   - prototype: 👂 heard
   - equality operators: 🖐 used
   - logical operators: 🖐 used
@@ -39,7 +39,7 @@
   - in
   - super
   - Symbol: 🎓 known
-  - Reflect 
+  - Reflect: 👂 heard
 - Statements
   - if: 🖐 used
   - while: 🖐 used
@@ -56,9 +56,9 @@
   - label
   - try..catch
   - switch: 👂 heard
-  - class
+  - class: 🎓 known
   - new Error: 👂 heard
-  - with
+  - with: 👂 heard
 - Functions
   - function declaration: 🎓 known
   - function expression: 🖐 used
@@ -69,7 +69,7 @@
   - Array: 🖐 used
   - mixin: 🎓 known
   - extend
-  - typed arrays
+  - typed arrays: 👂 heard
   - Map: 🎓 known
   - Set: 🎓 known
   - undefined: 🖐 used
