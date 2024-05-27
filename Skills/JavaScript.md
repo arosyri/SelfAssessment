@@ -2,39 +2,39 @@
 
 - Language
   - Object: 🖐 used
-  - this: 👂 heard
+  - this: 🖐 used
   - arrow function: 🖐 used
-  - async function: 👂 heard
-  - call: 👂 heard
+  - async function: 🖐 used
+  - call: 🖐 used
   - bind
   - apply
-  - instanceof
+  - instanceof: 🎓 known
   - ...spread: 🎓 known
   - ...rest: 🎓 known
   - typeof: 🎓 known
   - destructuring
   - generator: 🎓 known
   - iterator: 🖐 used
-  - async generator
-  - async iterator
+  - async generator: 🖐 used
+  - async iterator: 🖐 used
   - chaining
   - optional chaining
   - IIFE: 🖐 used
-  - global
-  - globalThis
+  - global: 🎓 known
+  - globalThis: 🎓 known
   - window: 👂 heard
   - getters and setters: 👂 heard
   - __proto__: 👂 heard
-  - prototype: 👂 heard
+  - prototype: 🖐 used
   - equality operators: 🖐 used
   - logical operators: 🖐 used
   - bitwise operators: 🎓 known
   - ternary operator: 🖐 used
   - void: 🖐 used
   - yield
-  - await: 👂 heard
-  - template literal
-  - strict mode
+  - await: 🎓 known
+  - template literal: 🎓 known
+  - strict mode: 🎓 known
   - delete: 🎓 known
   - in
   - super
@@ -47,36 +47,36 @@
   - for: 🖐 used
   - for..in: 🖐 used
   - for..of: 🖐 used
-  - for await
+  - for await: 🖐 used
   - throw: 🖐 used
   - break: 🖐 used
   - continue: 🖐 used
-  - import 
-  - export
-  - label
-  - try..catch
+  - import 🎓 known
+  - export: 🎓 known
+  - label: 🎓 known
+  - try..catch: 🎓 known
   - switch: 👂 heard
   - class: 🎓 known
   - new Error: 👂 heard
-  - with: 👂 heard
+  - with: 🎓 known
 - Functions
   - function declaration: 🎓 known
   - function expression: 🖐 used
-  - return 🖐 used
+  - return: 🖐 used
   - default parameters: 🖐 used
   - functional object: 🎓 known
 - Data structures
   - Array: 🖐 used
   - mixin: 🎓 known
   - extend
-  - typed arrays: 👂 heard
+  - typed arrays: 🎓 known
   - Map: 🎓 known
   - Set: 🎓 known
   - undefined: 🖐 used
   - null: 🖐 used
-  - Proxy: 👂 heard
+  - Proxy: 🎓 known
   - weak collections
-  - timers: 👂 heard
+  - timers: 🎓 known
   - EventEmitter
   - RegExp
   - Date: 🖐 used
