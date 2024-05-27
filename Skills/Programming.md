@@ -5,34 +5,34 @@
   - identifier: 🖐 used
   - variable: 🖐 used
   - constant: 🖐 used
-  - scalar: 🎓 known
+  - scalar: 🖐 used
   - literal: 🖐 used
   - expression: 🖐 used
   - heap: 🎓 known
   - function: 🖐 used
-  - procedure
-  - method
-  - class: 🎓 known
-  - prototype: 🎓 known
-  - event
-  - type: 🎓 known
-  - primitive types
-  - reference types
-  - flag: 🎓 known
+  - procedure: 🎓 known
+  - method: 🎓 known
+  - class: 🖐 used
+  - prototype: 🖐 used
+  - event: 🎓 known
+  - type: 🖐 used
+  - primitive types: 🎓 known
+  - reference types: 🎓 known
+  - flag: 🖐 used
   - lexical scope: 🖐 used
   - code block: 🖐 used
   - conditions: 🖐 used
   - loops: 🖐 used
   - assignment: 🎓 known
   - regular expression
-  - interface: 🎓 known
-  - contract
-  - module
+  - interface: 🖐 used
+  - contract: 👂 heard
+  - module: 👂 heard
   - call stack: 🎓 known
 - Functions
   - signature: 🎓 known
   - argument: 🎓 known
-  - parameter: 🎓 known
+  - parameter: 🖐 used
   - pure function: 🎓 known
   - lambda expression: 🎓 known
   - side effects: 👂 heard
@@ -42,45 +42,45 @@
   - higher order:👂 heard
   - recursion: 👂 heard
   - callback: 🎓 known
-  - listener
-  - compose
+  - listener: 👂 heard
+  - compose: 👂 heard
   - pipe
   - memoize: 👂 heard
-  - wrapper
-  - functor
+  - wrapper: 🎓 known
+  - functor: 👂 heard
   - monad
   - monoid
   - generator: 🖐 used
   - coroutine
 - Data structures
   - array: 🖐 used
-  - structure: 🎓 known
+  - structure: 🖐 used
   - record: 👂 heard
   - enum
-  - instance
+  - instance: 🎓 known
   - object: 🖐 used
-  - class: 🎓 known
+  - class: 🖐 used
   - collection: 🎓 known
-  - set: 🎓 known
+  - set: 🖐 used
   - hash table: 🎓 known
   - linked list: 👂 heard
   - doubly list: 👂 heard
   - unrolled list: 👂 heard
   - circular list: 👂 heard
-  - queue: 🎓 known
+  - queue: 🖐 used
   - stack: 🖐 used
   - deque
   - tree: 🎓 known
-  - graph
-  - iterator: 🎓 known
+  - graph: 🖐 used
+  - iterator: 🖐 used
   - mutable state: 🖐 used
   - immutable state: 🖐 used
-  - serialization
+  - serialization: 🖐 used
   - string parsing: 👂 heard
 - Process & style
   - compiler: 🖐 used
   - transpiler
-  - linter
+  - linter: 🎓 known
   - polyfill
   - debugger: 🖐 used
   - garbage collection
@@ -89,7 +89,7 @@
   - antipatterns: 🖐 used
   - paradigm: 👂 heard
   - algorithm: 🖐 used
-  - magic numbers: 🎓 known
+  - magic numbers: 🖐 used
   - hardcode: 🎓 known
   - complexity
   - decomposition: 👂 heard
